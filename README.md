@@ -1,3 +1,3 @@
 # opencv-crop
-python code for crop a photo and show and save the crop image
+Python tool to crop images, display the selected area, and save the cropped output effortlessly.
 This is a Python code How to work: Give it a picture along with the location of the picture in the third line The program will take the picture and show you with the coordinates Enter the coordinates you need and view the picture. If you are satisfied with the picture, press enter to save the pictureThis is a Python code How to work: Give it a picture along with the location of the picture in the third line The program will take the picture and show you with the coordinates Enter the coordinates you need and view the picture. If you are satisfied with the picture, press enter to save the picture
